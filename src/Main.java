@@ -3,7 +3,7 @@ public class Main {
         int balance = 100;
         int deposit = 1100;
         int bonus;
-        if (deposit > 100) {
+        if (deposit > 1000) {
             bonus = deposit / 100;
         } else {
             bonus = 0;
